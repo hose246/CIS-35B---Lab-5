@@ -1,0 +1,28 @@
+
+Name successfully changed from Fort Knox Gold Clearcoat Metallic to Red
+Cannot find Option with the name Fort Knox Gold Clearcoat Metallic
+Cannot find Option with the name Fort Knox Gold Clearcoat Metallic
+Cannot find Option with the name Fort Knox Gold Clearcoat Metallic
+Cannot find Option with the name Fort Knox Gold Clearcoat Metallic
+Cannot find Option with the name Fort Knox Gold Clearcoat Metallic
+Cannot find Option with the name Fort Knox Gold Clearcoat Metallic
+Cannot find Option with the name Fort Knox Gold Clearcoat MetallicException in thread "Thread-2" Exception in thread "Thread-0" Exception in thread "Thread-1" Exception in thread "Thread-3" java.lang.IllegalThreadStateException
+	at java.base/java.lang.Thread.start(Thread.java:1512)
+	at scale.EditOptions.ops(EditOptions.java:45)
+	at scale.EditOptions.run(EditOptions.java:26)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+java.lang.IllegalThreadStateException
+	at java.base/java.lang.Thread.start(Thread.java:1512)
+	at scale.EditOptions.ops(EditOptions.java:45)
+	at scale.EditOptions.run(EditOptions.java:26)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+java.lang.IllegalThreadStateException
+	at java.base/java.lang.Thread.start(Thread.java:1512)
+	at scale.EditOptions.ops(EditOptions.java:45)
+	at scale.EditOptions.run(EditOptions.java:26)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+java.lang.IllegalThreadStateException
+	at java.base/java.lang.Thread.start(Thread.java:1512)
+	at scale.EditOptions.ops(EditOptions.java:45)
+	at scale.EditOptions.run(EditOptions.java:26)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
